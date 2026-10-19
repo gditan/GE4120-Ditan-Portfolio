@@ -32,8 +32,7 @@
 
 <div align="center">
 
-[![Watch Video](https://img.shields.io/badge/%F0%9F%8E%A5-WATCH%20PRELIM%20VIDEO%20PRESENTATION-18181b?style=for-the-badge)](#)
-
+[![Watch Video](https://img.shields.io/badge/%F0%9F%BE%A5-WATCH%20PRELIM%20VIDEO%20PRESENTATION-18181b?style=for-the-badge)](https://drive.google.com/drive/folders/1sHndP5j3wDe4o-NH11481RV5xaHJ6rfK)
 ---
 
 [![Period](https://img.shields.io/badge/PERIOD-MIDTERMS-18181b?style=for-the-badge&labelColor=f4f4f5)](#)
