@@ -38,7 +38,6 @@
 [![Period](https://img.shields.io/badge/PERIOD-MIDTERMS-18181b?style=for-the-badge&labelColor=f4f4f5)](#)
 <div align="center">
 
-[![Period Midterms](https://img.shields.io/badge/PERIOD--MIDTERMS-18181b?style=for-the-badge&labelColor=f4f4f5)](#)
 
 <br>
 
