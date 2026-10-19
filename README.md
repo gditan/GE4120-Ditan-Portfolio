@@ -27,8 +27,7 @@
 | :--- | :--- | :--- |
 | **Presentation Design Principles** | **Color Palette & Typography** | **Social Media Infographics & Project Documentation** |
 | Mastering visual structure, layout balance, alignment, and typography to build effective, engaging slides. | Building cohesive design systems through accessible color pairings, font hierarchy, and aesthetic color theory. | Translating complex tech solutions into digestible visual infographics and detailed project write-ups. |
-| <div align="center">[![](https://img.shields.io/badge/%F0%9F%94%97-VIEW%20HERE-18181b?style=for-the-badge)](#)</div> | <div align="center">[![](https://img.shields.io/badge/%F0%9F%94%97-VIEW%20HERE-18181b?style=for-the-badge)](#)</div> | <div align="center">[![](https://img.shields.io/badge/%F0%9F%94%97-VIEW%20HERE-18181b?style=for-the-badge)](#)</div> |
-
+| <img src="ACTIVITY 1-GE 4120_DITAN.jpg" width="100%" alt="Activity 1 Output" /> | <img src="ACTIVITY 2_DITAN (1).jpg" width="100%" alt="Activity 2 Output" /> | <img src="Screenshot 2026-10-19 at 10.00.24 PM.jpg" width="100%" alt="Activity 3 Infographic" /><br /><br /><img src="Screenshot 2026-10-19 at 10.00.59 PM.png" width="100%" alt="Activity 3 Report" /> |
 <br />
 
 <div align="center">
