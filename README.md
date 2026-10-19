@@ -35,19 +35,15 @@
 [![Watch Video](https://img.shields.io/badge/%F0%9F%BE%A5-WATCH%20PRELIM%20VIDEO%20PRESENTATION-18181b?style=for-the-badge)](https://drive.google.com/drive/folders/1sHndP5j3wDe4o-NH11481RV5xaHJ6rfK)
 ---
 
-[![Period](https://img.shields.io/badge/PERIOD-MIDTERMS-18181b?style=for-the-badge&labelColor=f4f4f5)](#)
 <div align="center">
 
+[![Period Midterms](https://img.shields.io/badge/PERIOD--MIDTERMS-18181b?style=for-the-badge&labelColor=f4f4f5)](#)
 
 <br>
 
-[![View Midterm Presentation](https://img.shields.io/badge/CANVA-WATCH%20MIDTERM%20PPT%20PRESENTATION-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAHWCBFRf5g/RksCbVxbxBn6wwsmeb5jXg/edit?ui=eyJBIjp7fX0)
+[![View Midterm Presentation](https://img.shields.io/badge/CANVA-VIEW%20MIDTERM%20PPT%20PRESENTATION-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAHWCBFRf5g/RksCbVxbxBn6wwsmeb5jXg/edit?ui=eyJBIjp7fX0)
 
 </div>
-<br />
-
-[![View Midterm PPT](https://img.shields.io/badge/%F0%9F%93%8A-VIEW%20MIDTERM%20PPT%20PRESENTATION-18181b?style=for-the-badge)](#)
-
 ---
 
 [![Period](https://img.shields.io/badge/PERIOD-PREFINALS-18181b?style=for-the-badge&labelColor=f4f4f5)](#)
