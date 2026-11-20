@@ -2,7 +2,7 @@
 
 # 🤍 GE 4120: 21ST CENTURY IT SKILLS 🤍
 
-<img src="profile-photo.jpg" width="160" alt="Gabrielle Gia Ditan Profile Photo" />
+< src="profile-photo.jpg" width="160" alt="Gabrielle Gia Ditan Profile Photo" />
 
 <br /><br />
 
