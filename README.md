@@ -2,7 +2,7 @@
 
 # 🤍 GE 4120: 21ST CENTURY IT SKILLS 🤍
 
-< src="profile-photo.jpg" width="160" alt="Gabrielle Gia Ditan Profile Photo" />
+<img src="profile-photo.jpg" width="160" alt="profile-photo.jpg" />
 
 <br /><br />
 
@@ -16,7 +16,7 @@
 
 > *Welcome to my digital portfolio!*
 > 
-> Hi! I am **Gabrielle Gia Ditan**, a 2nd-year **AB Psychology** student at **[Your School Name]**, interested in **[your interests, e.g., digital media, visual communication, and psychology-tech integration]**. This space documents my hands-on experience and progress in **GE 4120: 21st CENTURY IT SKILLS**, featuring my collection of class assignments, weekly outputs, technical exercises, and course projects.
+> Hi! I am **Gabrielle Gia Ditan**, a 2nd-year **AB Psychology** student at **Ateneo de Davao University**, interested in **reading, graphic design, and exploring new digital tools**. This space documents my hands-on experience and progress in **GE 4120: 21st CENTURY IT SKILLS**, featuring my collection of class assignments, weekly outputs, technical exercises, and course projects.
 
 **🛠️ Skills & Tools Learned:**
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
@@ -38,7 +38,7 @@
 | :--- | :--- | :--- |
 | **Presentation Design Principles** | **Color Palette & Typography** | **Social Media Infographics & Project Documentation** |
 | Mastering visual structure, layout balance, alignment, and typography to build effective, engaging slides. | Building cohesive design systems through accessible color pairings, font hierarchy, and aesthetic color theory. | Translating complex tech solutions into digestible visual infographics and detailed project write-ups. |
-| [📂 Open Folder](./Activity-1) <br><details><summary><b>Click here</b></summary><br><img src="./Activity-1/activity-1-ditan.jpg" width="100%" alt="Activity 1 Output" /></details> | [📂 Open Folder](./Activity-2) <br><details><summary><b>Click here</b></summary><br><img src="./Activity-2/activity-2-ditan.png" width="100%" alt="Activity 2 Output" /></details> | [📂 Open Folder](./Activity-3) <br><details><summary><b>Click here</b></summary><br><img src="./Activity-3/activity-3-ditan.png" width="100%" alt="Activity 3 Infographic" /><br><br><img src="./Activity-3/project-documentation-ditan.jpeg" width="100%" alt="Activity 3 Report" /></details> |
+| [📂 Open Folder](./Activity-1) <br></summary><br><img src="./Activity-1/activity-1-ditan.jpg" width="100%" alt="Activity 1 Output" /></details> | [📂 Open Folder](./Activity-2) <br></summary><br><img src="./Activity-2/activity-2-ditan.png" width="100%" alt="Activity 2 Output" /></details> | [📂 Open Folder](./Activity-3) <br></summary><br><img src="./Activity-3/activity-3-ditan.png" width="100%" alt="Activity 3 Infographic" /><br><br><img src="./Activity-3/project-documentation-ditan.jpeg" width="100%" alt="Activity 3 Report" /></details> |
 
 <br />
 
@@ -58,11 +58,11 @@
 
 <br />
 
-| 💻 **ACTIVITY 4** | 📊 **ACTIVITY 5** |
-| :--- | :--- |
-| **[Activity 4 Title]** | **AI Tools** |
-| [Short 1–2 sentence description of Activity 4.] | [Short 1–2 sentence description of Activity 5.] |
-| [📂 Open Folder](./Activity-4) <br><details><summary><b>Click here</b></summary><br><img src="./Activity-4/activity-4-ditan.png" width="100%" alt="Activity 4 Output" /></details> | [📂 Open Folder](./Activity-5) <br><details><summary><b>Click here</b></summary><br><img src="./Activity-5/Activity-5 pdf." width="100%" alt="Activity 5 Output" /></details> |
+| 📊 **ACTIVITY 5** |
+| :--- |
+| **AI Tools** |
+| This activity was about using an AI tool, creating an original prompt, improving it with the help of another AI, and comparing the results to see how prompt quality affects the generated output. |
+| [📂 Open Folder](./Activity-5) <br></b></summary><br><img src="./Activity-5/Activity-5 pdf." width="100%" alt="Activity 5 Output" /></details> |
 
 <br />
 
@@ -79,7 +79,7 @@
 | 📝 **ACTIVITY 6** | 🚀 **ACTIVITY 7** |
 | :--- | :--- |
 | ** Making a Website** | **Resume Generating** |
-| [Short 1–2 sentence description of Activity 6.] | [Short 1–2 sentence description of Activity 7.] |
+| This activity was about creating a one-page website for a business or personal concept by planning its layout, design, and content using website-building tools. | This activity was about creating a one-page professional resume using at least two Large Language Model (LLM) tools with the same prompt, then comparing their outputs to see how they differ in content, formatting, and quality. |
 | [📂 Open Folder](./Activity-6) <br><details><summary><b>Click here</b></summary><br><img src="./Activity-6/activity-6-ditan.png" width="100%" alt="Activity 6 Output" /></details> | [📂 Open Folder](./Activity-7) <br><details><summary><b>Click here</b></summary><br><img src="./Activity-7/activity-7-ditan.png" width="100%" alt="Activity 7 Output" /></details> |
 
 <br />
