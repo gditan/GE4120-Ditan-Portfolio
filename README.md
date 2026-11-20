@@ -62,7 +62,7 @@
 | :--- | :--- |
 | **[Activity 4 Title]** | **AI Tools** |
 | [Short 1–2 sentence description of Activity 4.] | [Short 1–2 sentence description of Activity 5.] |
-| [📂 Open Folder](./Activity-4) <br><details><summary><b>Click here</b></summary><br><img src="./Activity-4/activity-4-ditan.png" width="100%" alt="Activity 4 Output" /></details> | [📂 Open Folder](./Activity-5) <br><details><summary><b>Click here</b></summary><br><img src="./Activity-5/activity-5-ditan.png" width="100%" alt="Activity 5 Output" /></details> |
+| [📂 Open Folder](./Activity-4) <br><details><summary><b>Click here</b></summary><br><img src="./Activity-4/activity-4-ditan.png" width="100%" alt="Activity 4 Output" /></details> | [📂 Open Folder](./Activity-5) <br><details><summary><b>Click here</b></summary><br><img src="./Activity-5/Activity-5 pdf." width="100%" alt="Activity 5 Output" /></details> |
 
 <br />
 
