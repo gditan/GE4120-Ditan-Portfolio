@@ -2,7 +2,7 @@
 
 # 🤍 GE 4120: 21ST CENTURY IT SKILLS 🤍
 
-<img src="profile-photo.jpg" width="160" alt="profile-photo.jpg" />
+<img src="Images/profile-photo.jpg" width="160" alt="profile-photo.jpg" />
 
 <br /><br />
 
@@ -38,7 +38,7 @@
 | :--- | :--- | :--- |
 | **Presentation Design Principles** | **Color Palette & Typography** | **Social Media Infographics & Project Documentation** |
 | Mastering visual structure, layout balance, alignment, and typography to build effective, engaging slides. | Building cohesive design systems through accessible color pairings, font hierarchy, and aesthetic color theory. | Translating complex tech solutions into digestible visual infographics and detailed project write-ups. |
-| [📂 Open Folder](./Activity-1) <br></summary><br><img src="./Activity-1/activity-1-ditan.jpg" width="100%" alt="Activity 1 Output" /></details> | [📂 Open Folder](./Activity-2) <br></summary><br><img src="./Activity-2/activity-2-ditan.png" width="100%" alt="Activity 2 Output" /></details> | [📂 Open Folder](./Activity-3) <br></summary><br><img src="./Activity-3/activity-3-ditan.png" width="100%" alt="Activity 3 Infographic" /><br><br><img src="./Activity-3/project-documentation-ditan.jpeg" width="100%" alt="Activity 3 Report" /></details> |
+| [📂 Open Folder](./Activity-1) <br></summary><br><img src="Images/Activity-1/activity-1-ditan.jpg" width="100%" alt="Activity 1 Output" /></details> | [📂 Open Folder](./Activity-2) <br></summary><br><img src="./Activity-2/activity-2-ditan.png" width="100%" alt="Activity 2 Output" /></details> | [📂 Open Folder](./Activity-3) <br></summary><br><img src="Images./Activity-3/activity-3-ditan.png" width="100%" alt="Activity 3 Infographic" /><br><br><img src="Images./Activity-3/project-documentation-ditan.jpeg" width="100%" alt="Activity 3 Report" /></details> |
 
 <br />
 
